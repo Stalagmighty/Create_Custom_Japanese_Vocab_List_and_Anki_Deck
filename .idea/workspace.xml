@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f489c1f1-bc78-44b9-918c-5d775ad9a5d8" name="Changes" comment="First commit" />
+    <list default="true" id="f489c1f1-bc78-44b9-918c-5d775ad9a5d8" name="Changes" comment="After venv change">
+      <change beforePath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754831934478</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="After venv change">
+      <option name="closed" value="true" />
+      <created>1754833626304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754833626304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="After venv change" />
+    <option name="LAST_COMMIT_MESSAGE" value="After venv change" />
   </component>
 </project>
