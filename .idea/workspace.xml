@@ -24,9 +24,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Scen1.1.Clean_Japanese_App_List_Data.executor": "Run",
+    "Python.Scen2.1.Clean_Augment_Japanese_App_List_Data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Tom/OneDrive/Coding Projects/clean_Japanese_Custom_Vocab_List_and_Anki_Creator/.venv/Lib"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Tom/OneDrive/Coding Projects/clean_Japanese_Custom_Vocab_List_and_Anki_Creator/.venv/Lib",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754831653510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1754831934477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754831934478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,7 +84,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
