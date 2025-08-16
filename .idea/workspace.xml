@@ -102,6 +102,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENAI_API_KEY" value="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" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -117,6 +118,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Call_Jisho_API" />
+      <item itemvalue="Python.Jisho_API_Most_Common" />
+      <item itemvalue="Python.Scen2.1.Clean_Augment_Japanese_App_List_Data" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Scen2.1.Clean_Augment_Japanese_App_List_Data" />
