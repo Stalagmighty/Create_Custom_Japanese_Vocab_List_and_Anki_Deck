@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f489c1f1-bc78-44b9-918c-5d775ad9a5d8" name="Changes" comment="Augmented and working">
-      <change afterPath="$PROJECT_DIR$/Call_Jisho_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jisho_API_Most_Common.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" afterDir="false" />
     </list>
@@ -175,10 +173,33 @@
       <option name="project" value="LOCAL" />
       <updated>1754837578609</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Augmented and working">
+      <option name="closed" value="true" />
+      <created>1755331336939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755331336939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
