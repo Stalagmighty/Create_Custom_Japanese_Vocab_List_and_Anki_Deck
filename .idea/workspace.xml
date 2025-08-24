@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f489c1f1-bc78-44b9-918c-5d775ad9a5d8" name="Changes" comment="Augmented and working">
+      <change afterPath="$PROJECT_DIR$/From_English_Translate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scen2.1.Clean_Augment_Japanese_App_List_Data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/topic_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/topic_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v2Scen2.1.Clean_Augment_Japanese_App_List_Data.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2Scen2.1.Clean_Augment_Japanese_App_List_Data.py" afterDir="false" />
     </list>
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755391192800</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Augmented and working">
+      <option name="closed" value="true" />
+      <created>1756020811771</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756020811771</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
